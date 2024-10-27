@@ -22,6 +22,6 @@
 <p> Você pode comprar o ingresso da Campus Party neste <a href="https://cpbr14.vaitercampus.org/#/"> link </a>. </p>
 <p> Obs.: O ingresso te dá entrada para os 5 dias do evento. Escolhendo a opção com Camping você terá uma barraca para dormir dentro do Anhembi. </p>
 <p> Abaixo um print com os valores dos ingressos para cada lote: </p>
-<img src="img/campusValores.png" alt="Valores dos ingressos">
+<img src="img/campusValores.png" alt="Tabela de valores">
 
 <h4 align="center"> Com o tempo está sendo adicionado mais informações. </h4>
